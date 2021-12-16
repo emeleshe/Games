@@ -1,0 +1,31 @@
+.foto p {
+    font-size: 20px;
+    padding-left: 36px;
+    padding-right: 40px;
+}
+.foto a button{
+    margin-left: 35px;
+    margin-top: 50px;
+    margin-bottom: 29px;
+    padding: 30px;
+    font-size: 25px;
+    border: none;
+}
+
+img {
+    height: 700px;
+    padding-top: 90px;
+    margin-left: 30px;
+}
+
+.float-md-end a li{
+    color: #fff;
+    margin-right: 120px;   
+    margin-top: 34px;
+    border: 1px dashed #fff;
+    padding: 10px;
+
+}
+.float {
+    margin-top: 260px;
+}

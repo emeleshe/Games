@@ -13,11 +13,11 @@
     border: none;
 }
 
-/* .float img {
+ .float img {
     height: 700px;
     padding-top: 90px;
     margin-left: 30px;
-}  */
+}  
 
 .float-md-end a li{
     color: #fff;
@@ -40,7 +40,7 @@
     margin: 0;
 
 }
-#galeria img {    
+.image img {    
     width: 100%;
     height: 280px;    
 }
@@ -49,7 +49,7 @@
     border: 5px solid #fff;
 }
 #galeria h2 {
-    padding-top: 25px;
+    padding-top: 35px;
     padding-left: 35px;
 }
 

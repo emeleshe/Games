@@ -1,9 +1,31 @@
-#galeria img {    
-    width: 100%;
-    height: 250px;
+#galeria img {
+    padding: 0;
+}
+
+#galeria{
+    background-color: rgb(235, 243, 240);
     padding: 0;
     margin: 0;
+
 }
-#galeria {
+#galeria img {    
+    width: 100%;
+    height: 280px;    
+}
+
+#galeria img:hover {
+    border: 5px solid #fff;
+}
+#galeria h2 {
     padding-top: 25px;
+    padding-left: 35px;
+}
+
+#galeria p {
+    font-size: 18px;
+    padding-top: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+    
+    
 }

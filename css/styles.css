@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .foto p {
     font-size: 20px;
@@ -29,4 +30,14 @@
 }
 .float {
     margin-top: 260px;
+=======
+img {
+    padding: 0;
+}
+
+.fnd h5 {
+    padding: 55px;
+    height: 300px;
+}
+>>>>>>> feature/section5
 
